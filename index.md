@@ -57,4 +57,4 @@ El primer paso, de exposición del marco teórico, se divide en las siguientes e
     a. Una versión técnica, justificada y ampliada.
     b. Una versión de divulgación que busque llevar los conceptos centrales a un público amplio.
 
-Si te interesa saber más, o colaborar con el proyecto, por favor ponete en contacto.
+Si te interesa saber más, o colaborar con el proyecto, por favor [ponete en contacto](https://maslinks.com/jfernandezzaragoza).
