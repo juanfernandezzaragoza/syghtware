@@ -15,7 +15,7 @@
 ### El estudio informático de los puntos de vista es una deuda de la filosofía.
 - Es fundamental para postular una teoría general de la complejidad.
 - Como tal, es un prerrequisito para dar con una teoría política superadora a las propuestas del siglo XX.
-- Resuelve y explica una serie de malentendidos ampliamente difundidos en el sentido fi.
+- Resuelve y explica una serie de malentendidos ampliamente difundidos en la filosofía actual.
 
 **Syghtware** es el marco de desarrollo teórico y práctico de esta propuesta, surgida del grupo sistemas y perspectivas de [Filosofía del Futuro](https://filosofiadelfuturo.com).
 
