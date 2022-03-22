@@ -1,23 +1,6 @@
 # Syghtware
-### La tecnología del punto de vista
+### Los puntos de vista como tecnología
 
-## Los principios
-
-### Los puntos de vista son tecnologías.
-- Llamamos **tecnologías** a las **herramientas de transformación de la realidad**.
-- El **punto de vista** que tenemos sobre un fenómeno nos ofrece un abanico de **intervenciones posibles**. Como tal, es una herramienta de transformación.
-
-### Los puntos de vista tienen propiedades informáticas y sistémicas. Distintos puntos de vista sobre un fenómeno tienen distintas propiedades.
-- Describen un fenómeno dinámico.
-- Definen una ontología y una estructura.
-- Conllevan una cantidad de información determinada.
-
-### El estudio informático de los puntos de vista es una deuda de la filosofía.
-- Es fundamental para postular una teoría general de la complejidad.
-- Como tal, es un prerrequisito para dar con una teoría política superadora a las propuestas del siglo XX.
-- Resuelve y explica una serie de malentendidos ampliamente difundidos en la filosofía actual.
-
-**Syghtware** es el marco de desarrollo teórico y práctico de esta propuesta, surgida del grupo sistemas y perspectivas de [Filosofía del Futuro](https://filosofiadelfuturo.com).
 
 <!-- Begin Mailchimp Signup Form -->
 
@@ -30,7 +13,6 @@
 <div id="mc_embed_signup">
 <form action="https://syghtware.us14.list-manage.com/subscribe/post?u=50fecf6146f1dc5788105b9a1&amp;id=23075e3827" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Mantenete al tanto</h2>
 	    <p>Suscribite a nuestro boletín de noticias</p>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Dirección de mail: <span class="asterisk">*</span>
@@ -54,7 +36,23 @@
 <!--End mc_embed_signup-->
 </div>
 
+## Los principios
 
+### Los puntos de vista son tecnologías.
+- Llamamos **tecnologías** a las **herramientas de transformación de la realidad**.
+- El **punto de vista** que tenemos sobre un fenómeno nos ofrece un abanico de **intervenciones posibles**. Como tal, es una herramienta de transformación.
+
+### Los puntos de vista tienen propiedades informáticas y sistémicas. Distintos puntos de vista sobre un fenómeno tienen distintas propiedades.
+- Describen un fenómeno dinámico.
+- Definen una ontología y una estructura.
+- Conllevan una cantidad de información determinada.
+
+### El estudio informático de los puntos de vista es una deuda de la filosofía.
+- Es fundamental para postular una teoría general de la complejidad.
+- Como tal, es un prerrequisito para dar con una teoría política superadora a las propuestas del siglo XX.
+- Resuelve y explica una serie de malentendidos ampliamente difundidos en la filosofía actual.
+
+**Syghtware** es el marco de desarrollo teórico y práctico de esta propuesta, surgida del grupo sistemas y perspectivas de [Filosofía del Futuro](https://filosofiadelfuturo.com).
 
 ## El proyecto bibliográfico
 
