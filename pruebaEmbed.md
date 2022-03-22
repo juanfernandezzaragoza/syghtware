@@ -9,7 +9,8 @@
 <div id="mc_embed_signup">
 <form action="https://syghtware.us14.list-manage.com/subscribe/post?u=50fecf6146f1dc5788105b9a1&amp;id=23075e3827" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
-	<h2>Mantenete al tanto del proyecto</h2>
+	<h2>Mantenete al tanto</h2>
+	    <p>Suscribite a nuestro boletín de noticias</p>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Dirección de mail: <span class="asterisk">*</span>
 </label>
