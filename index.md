@@ -23,7 +23,7 @@
 
 <div>
 <style type="text/css">
-	#mc_embed_signup{background:#eaeaea; clear:left; font:14px Helvetica,Arial,sans-serif; }
+	#mc_embed_signup{clear:left}
 	/* Add your own Mailchimp form style overrides in your site stylesheet or in this style block.
 	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
 </style>
