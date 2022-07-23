@@ -26,5 +26,6 @@ Cómo la informática redefine a la Filosofía política.
 - Capítulo 11: Es suficiente que los movimientos sociales escalen como startups.
 - Capítulo 12: La revolución empieza hoy mismo.
 
-[Leer el libro](https://syghtware.com/La%20revoluci%C3%B3n%20es%20una%20App.pdf).
-Este proyecto es el resultado de mucho trabajo independiente. Si te parece valorable, invitame un [cafecito](https://cafecito.app/syghtware).
+Acá podés [leer el libro](https://syghtware.com/La%20revoluci%C3%B3n%20es%20una%20App.pdf).
+
+Este proyecto es el resultado de mucho trabajo no remunerado, que merece estar disponible de manera abierta. Si te parece valorable, invitame un [cafecito](https://cafecito.app/syghtware).
