@@ -26,6 +26,31 @@ Cómo la informática redefine a la Filosofía política.
 - Capítulo 11: Es suficiente que los movimientos sociales escalen como startups.
 - Capítulo 12: La revolución empieza hoy mismo.
 
-Acá podés [leer el libro](https://syghtware.com/La%20revoluci%C3%B3n%20es%20una%20App.pdf).
+### Los aportes más importantes son: 
+- Un **nuevo marco teórico** para pensar el sistema actual, más explicativo que el marxismo y el liberalismo:
+    - La ontología marxista contiene dos clases sociales, la burguesía y el proletariado.
+    - La ontología liberal contiene empresas e individuos, como entidades separadas, independientes y similares.
+    - La nueva ontología comprende a las empresas como organizaciones de individuos.
+    - En la clasificación de Weaver, se trata de un modelo simple, un modelo de complejidad desorganizada y un modelo de complejidad organizada, respectivamente.
 
-Este proyecto es el resultado de mucho trabajo no remunerado, que merece estar disponible de manera abierta. Si te parece valorable, invitame un [cafecito](https://cafecito.app/syghtware).
+- Es el estudio del **Capital** como una **red social,** por tratarse de una forma de organización social, que muestra **efectos de red acotados por la tecnología disponible en la productividad**. La dinámica que estos generan explica:
+    -  La tendencia del capital a concentrarse con el desarrollo tecnológico (que no queda debidamente explicada por la teoría marxista).
+    -  El fenómeno del imperialismo (que, de la misma manera, no queda debidamente explicado por la teoría marxista).
+    -  La explotación en relaciones extrasalariales (por ejemplo, de plataformas digitales con "cuentapropistas").
+
+- La identificación de una **forma general de la explotación**, llamada **liderazgo de redes**, presente en casi todas las formas de explotación humana, e ilustrativa de la historia de los sistemas económicos. El capital es sólo un caso particular de este mecanismo.
+- El estudio de los sistemas económicos desde una perspectiva informática, que presenta una estrategia factible para cambiar de sistema económico de un modo que:
+    - No requiera una revolución violenta.
+    - No requiera autoritarismos para implementarse.
+    - No genere desigualdades estructurales ni destrucción ambiental.
+
+- Una explicación de los problemas de los modelos marxista y liberal **a la luz de las técnicas de modelado que existían cuando estos se desarrollaron**.
+
+Este proyecto es el resultado de mucho trabajo independiente y que merece estar disponible de manera abierta. Es el primero de varios escritos que expresan el impacto revolucionario de la informática en cada una de las ramas de la filosofía. Si te parece valorable, y te interesa que el proyecto continúe, invitame un [cafecito](https://cafecito.app/syghtware).
+
+Acá hay podes ver un borrador de [el libro](https://syghtware.com/La%20revoluci%C3%B3n%20es%20una%20App.pdf). Aún resta llevar a cabo una corrección de estilo y añadir bibliografía recomendada en el Capítulo 12.
+
+Si querés recibir noticias, suscribite a la lista de mails:
+</style>
+Dirección de mail: *
+<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
