@@ -1,6 +1,6 @@
 # La revolución es una *App*
 
-Cómo la informática redefine a la Filosofía política.
+Ya está disponible el borrador de **La revolución es una App:** *Cómo la informática redefine la economía política.* En él, vas a encontrar lo siguiente:
 
 **Parte I: Lo que hay que debatir son los *sistemas* económicos.**
 - Capítulo 1: El socialismo y el capitalismo no son sistemas económicos.
@@ -39,12 +39,13 @@ Cómo la informática redefine a la Filosofía política.
     -  La explotación en relaciones extrasalariales (por ejemplo, de plataformas digitales con "cuentapropistas").
 
 - La identificación de una **forma general de la explotación**, llamada **liderazgo de redes**, presente en casi todas las formas de explotación humana, e ilustrativa de la historia de los sistemas económicos. El capital es sólo un caso particular de este mecanismo.
+
 - El estudio de los sistemas económicos desde una perspectiva informática, que presenta una estrategia factible para cambiar de sistema económico de un modo que:
     - No requiera una revolución violenta.
     - No requiera autoritarismos para implementarse.
     - No genere desigualdades estructurales ni destrucción ambiental.
 
-- Una explicación de los problemas de los modelos marxista y liberal **a la luz de las técnicas de modelado que existían cuando estos se desarrollaron**.
+- Una explicación de los problemas de los modelos marxista y liberal **a la luz de las limitaciones en las técnicas de modelado que existían cuando estos se desarrollaron**.
 
 Este proyecto es el resultado de mucho trabajo independiente y que merece estar disponible de manera abierta. Es el primero de varios escritos que expresan el impacto revolucionario de la informática en cada una de las ramas de la filosofía. Si te parece valorable, y te interesa que el proyecto continúe, invitame un [cafecito](https://cafecito.app/syghtware).
 
