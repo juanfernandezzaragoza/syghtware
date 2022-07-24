@@ -49,9 +49,7 @@ Ya está disponible el borrador de **La revolución es una App:** *Cómo la info
 
 Este proyecto es el resultado de mucho trabajo independiente y que merece estar disponible de manera abierta. Es el primero de varios escritos que expresan el impacto revolucionario de la informática en cada una de las ramas de la filosofía. Si te parece valorable, y te interesa que el proyecto continúe, invitame un [cafecito](https://cafecito.app/syghtware).
 
-Acá hay podes ver un borrador de [el libro](https://syghtware.com/La%20revoluci%C3%B3n%20es%20una%20App.pdf). Aún resta llevar a cabo una corrección de estilo y añadir bibliografía recomendada en el Capítulo 12.
+[Acá podes ver un borrador del libro](https://syghtware.com/La%20revoluci%C3%B3n%20es%20una%20App.pdf). Aún resta llevar a cabo una corrección de estilo y añadir bibliografía recomendada en el Capítulo 12.
 
-Si querés recibir noticias, suscribite a la lista de mails:
-</style>
-Dirección de mail: *
-<script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='ADDRESS';ftypes[3]='address';fnames[4]='PHONE';ftypes[4]='phone';fnames[5]='BIRTHDAY';ftypes[5]='birthday';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+Si te interesa colaborar con el proyecto, [ponete en contacto](https://www.instagram.com/syghtware/).
+
