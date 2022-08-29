@@ -1,0 +1,24 @@
+title:              Syghtware
+email:              syghtware@gmail.com
+description:        Los puntos de vista son tecnologías
+author:             Juan Zaragoza
+baseurl:            ""
+url:                "https://syghtware.com"
+
+# Social Profiles
+twitter_username:   syghtware
+instagram_username: syghtware 
+linkedin_page: syghtware
+youtube_channel: UCC2KcYxcngo9n6lwxvOwMEw
+
+# Add your google-analytics ID here to activate google analytics
+google_analytics:   UA-XXXXXXXXX-X # out your google-analytics code
+
+# Build settings
+markdown:           kramdown
+paginate:           5
+paginate_path:      "/posts/page:num/"
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap ## Uncomment this line to silently generate a sitemaps.org compliant sitemap for your Jekyll site

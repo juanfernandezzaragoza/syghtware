@@ -1,0 +1,49 @@
+I"0<h1 id="syghtware-es-el-marco-teórico-para-pensar-el-futuro">Syghtware es el marco teórico para pensar el futuro</h1>
+
+<p>Los problemas científicos más apremiantes son problemas complejos.</p>
+
+<p>El sistema científico y la epistemología actuales son insuficientes para enfrentar sistemas complejos:</p>
+
+<ol>
+  <li>
+    <p>La división de las ciencias según sus objetos de estudio es artificial, ya que sistemas materialmente distintos pueden seguir las mismas dinámicas.</p>
+  </li>
+  <li>
+    <p>Existen rasgos comunes en dinámicas complejas que pueden estudiarse en conjunto, pero la formación científica actual los separa.</p>
+  </li>
+  <li>
+    <p>Las dinámicas complejas sólo pueden ser comprendidas haciendo uso del <strong>modelado computacional</strong>, por la cantidad de cálculos necesarios para predecir sus trayectorias.</p>
+  </li>
+  <li>
+    <p>El <strong>artículo</strong>, como instrumento de comunicación científica, es insuficiente para estudiar colaborativamente a los sistemas complejos.</p>
+  </li>
+</ol>
+
+<p>Podemos encontrar una epistemología superadora si estudiamos a los <strong>puntos de vista</strong> como <strong>tecnologías de software</strong>.</p>
+
+<h1 id="los-puntos-de-vista-son-tecnologías">Los puntos de vista son tecnologías</h1>
+
+<ul>
+  <li>Llamamos <strong>tecnologías</strong> a las <strong>herramientas de transformación de la realidad</strong>.</li>
+  <li>El punto de vista que tenemos sobre un fenómeno nos ofrece un abanico de <strong>intervenciones posibles</strong>. Como tal, un punto de vista es una herramienta de transformación de la realidad.</li>
+</ul>
+
+<p><strong>Los puntos de vista tienen propiedades informáticas y sistémicas. Distintos puntos de vista sobre un fenómeno tienen distintas propiedades:</strong></p>
+
+<ul>
+  <li>Describen un fenómeno, una dinámica (o, en otras palabras, un <strong>sistema</strong>).</li>
+  <li>Definen una ontología y una estructura.</li>
+  <li>Conllevan una cantidad de información determinada.</li>
+</ul>
+
+<p><strong>El estudio informático de los puntos de vista ofrece la epistemología que necesitamos:</strong></p>
+
+<ul>
+  <li>Permite comparar e integrar modelos de la realidad, porque rompe con la <strong>tesis de inconmensurabilidad</strong> planteada por Kuhn.</li>
+  <li>Por el motivo anterior, es fundamental para postular una teoría general de la complejidad.</li>
+  <li>Permite resolver una serie de desacuerdos entre disciplinas y modelos existentes de la realidad.</li>
+  <li>Resuelve y explica una serie de malentendidos ampliamente difundidos en la filosofía actual.</li>
+</ul>
+
+<p><strong>Syghtware</strong> es el marco de desarrollo teórico y práctico de esta propuesta, surgido del grupo de trabajo “Sistemas y Perspectivas” del colectivo <a href="https://filosofiadelfuturo.com">Filosofía del Futuro</a>.</p>
+:ET
