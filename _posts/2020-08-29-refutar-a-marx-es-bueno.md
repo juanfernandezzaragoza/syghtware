@@ -2,7 +2,7 @@
 layout: post
 title: "Refutar a Marx es bueno para el socialismo"
 subtitle: "Faltó modelar incentivos y formas de organización"
-background: '/img/posts/01.jpg'
+background: '/img/posts/06.jpg'
 ---
 
 El marxismo y el socialismo son dos cosas diferentes.

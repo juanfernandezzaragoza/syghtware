@@ -2,7 +2,7 @@
 layout: post
 title: Qué es syghtware
 subtitle: Un marco teórico para pensar el futuro
-background: '/img/bg-about.jpg'
+background: '/img/posts/06.jpg'
 ---
 
 # Syghtware es el marco teórico para pensar el futuro

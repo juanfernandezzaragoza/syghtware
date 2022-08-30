@@ -2,10 +2,10 @@
 layout: post
 title: "Tu oponente tiene razón"
 subtitle: "Atiende a algo que vos no"
-background: '/img/posts/01.jpg'
+background: '/img/posts/06.jpg'
 ---
 
-Cuanto más atención prestamos a algo, menos atención prestamos a otras cosas. 
+Cuanta más atención prestamos a algo, menos atención prestamos a otras cosas. 
 
 En otras palabras, la atención es un recurso escaso y finito. La usamos en muy poco de lo que hacemos. Para la mayoría de las acciones que llevamos a cabo, nos encontramos en un estado de “piloto automático”, o de “ley de menor esfuerzo”. Nuestra psicología funciona de manera tal que intenta prestar la menor cantidad posible de atención al mundo que nos rodea. El fenómeno fue descrito y caracterizado por Daniel Kahneman en su libro “Thinking, Fast and Slow”, quien recibió un premio nobel de economía por sus aportes.
 
