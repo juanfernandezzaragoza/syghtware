@@ -7,13 +7,13 @@ background: '/img/posts/06.jpg'
 
 Cuanta más atención prestamos a algo, menos atención prestamos a otras cosas. 
 
-En otras palabras, la atención es un recurso escaso y finito. La usamos en muy poco de lo que hacemos. Para la mayoría de las acciones que llevamos a cabo, nos encontramos en un estado de “piloto automático”, o de “ley de menor esfuerzo”. Nuestra psicología funciona de manera tal que intenta prestar la menor cantidad posible de atención al mundo que nos rodea. El fenómeno fue descrito y caracterizado por Daniel Kahneman en su libro “Thinking, Fast and Slow”, quien recibió un premio nobel de economía por sus aportes.
+En otras palabras, la atención es un recurso escaso y finito. La usamos en muy poco de lo que hacemos. Para la mayoría de las acciones que llevamos a cabo, nos encontramos en un estado de “piloto automático”, o de “ley de menor esfuerzo”. Nuestra mente  intenta prestar la menor cantidad posible de atención al mundo que nos rodea. Este fenómeno fue descrito y caracterizado por Daniel Kahneman en su libro “Thinking, Fast and Slow”. Por sus aportes, Kahneman recibió un premio nobel de economía.
 
 A nivel evolutivo, no es disparatado prestar poca atención. Pensar gasta energía, y naturalmente, la energía es algo que tendemos a ahorrar. Para darnos una idea, el sistema nervioso central constituye menos del 5% de nuestra masa corporal, pero aún así lleva a cabo casi el 25% de nuestro consumo de glucosa.
 
-Cuando apareció la civilización, dejó de ser tan necesario que ahorráramos energía a toda costa. Lamentablemente, hemos heredado muchas costumbres de aquellos viejos tiempos simios a través de nuestros cuerpos. Entre ellas, una muy limitada capacidad de atención.
+Cuando apareció la civilización, y con ella la agricultura, dejó de ser tan necesario que ahorráramos energía a toda costa. Lamentablemente, hemos heredado muchas costumbres de aquellos viejos tiempos simios a través de nuestros cuerpos. Entre ellas, una muy limitada capacidad de atención.
 
-Durante más de diez siglos, teníamos el problema bajo control. La información que circulaba en nuestra sociedad (mejor dicho, la información que requiere procesamiento “racional” y “consciente” para poder hacer uso de ella, como los textos en general) era tan limitada que importaba más la falta de textos que nuestra incapacidad de abarcarlos si eran muchos. 
+Durante más de diez siglos, teníamos el problema bajo control. La información que circulaba en nuestra sociedad (o mejor dicho, la información que requiere procesamiento “racional” y “consciente” para hacer uso de ella, como los textos en general) era tan limitada que importaba más la falta de textos que nuestra incapacidad de abarcarlos si eran muchos. 
 
 En un principio, esto fue porque mantener textos era difícil: desde las tablillas de barro hasta los papiros, pergaminos y palimpsestos, todos los soportes en que se daba la escritura eran costosos. Con el advenimiento de la prensa escrita, el costo de mantener textos se abarató, pero sin embargo era difícil generarlos: el índice de alfabetización era bajísimo, y además, había muy pocas imprentas para muchas personas. Lo mismo pasó con la radio y el periódico después: había muchas menos fuentes de emisión de información que personas que las consumieran.
 
