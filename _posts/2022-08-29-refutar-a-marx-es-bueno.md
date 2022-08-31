@@ -15,7 +15,7 @@ Podemos entender su diferencia con una analogía.
 
 El socialismo es una propuesta. Decir “distribuyamos el poder entre la sociedad” funciona como decir “construyamos un puente”. Como causa, el socialismo existía desde mucho antes de Marx.
 
-La principal contribución del marxismo, podemos argumentar, fue notar que no basta con querer construir un puente para poder hacerlo, sino que para lograrlo y que este nos e caiga hace falta saber de física y de ingeniería, o correr el significativo riesgo de que el puente se transforme pronto en escombros. 
+La principal contribución del marxismo, podemos argumentar, fue notar que no basta con querer construir un puente para poder hacerlo, sino que para lograrlo y que este no se caiga hace falta saber de física y de ingeniería, o correr el significativo riesgo de que el puente se transforme pronto en escombros. 
 
 Desde la tradición marxista, esta observación se caracterizó como el paso del **socialismo utópico** al **socialismo científico**, que no es más que el socialismo junto a una teoría de cómo funciona la sociedad:  la ingeniería que permite construir el puente.
 
