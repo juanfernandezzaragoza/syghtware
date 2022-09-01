@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Currículum Vitae"
-subtitle: "La Revolución es una App comparte el trabajo de una vida."
+subtitle: '"La Revolución es una App" comparte el trabajo de una vida.'
 background: '/img/posts/06.jpg'
 ---
 
